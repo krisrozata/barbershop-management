@@ -1,0 +1,23 @@
+# Maven
+target/
+
+# Compiled class files
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.settings/
+.project
+.classpath
+bin/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
