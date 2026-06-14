@@ -30,3 +30,4 @@ Or run the main class directly from your IDE.
 
 ## 👤 Author
 Kristiyan Georgiev — [GitHub](https://github.com/krisrozata)
+"# barbershop-management" 
