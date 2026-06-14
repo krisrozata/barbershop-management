@@ -13,6 +13,8 @@ A Java application for managing a barbershop, with input validation to keep the 
 - Maven
 
 ## 🚀 Getting Started
+<img width="1918" height="1145" alt="image" src="https://github.com/user-attachments/assets/affdea52-fa0a-4246-8ff0-996b72b19640" />
+
 
 ### Prerequisites
 - JDK (17 or your version)
